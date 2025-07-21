@@ -1,0 +1,22 @@
+#tuple=("Their","they","just","next","mine")
+'''str="this is a nice day"
+h=iter(str)
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))
+print(next(h))'''
+
