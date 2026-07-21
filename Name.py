@@ -1,2 +1,0 @@
-name="Priyadharshini"
-print(name)
